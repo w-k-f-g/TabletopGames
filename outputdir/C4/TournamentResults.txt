@@ -1,0 +1,132 @@
+Game: Connect4, Players: 2, Mode: EXHAUSTIVE, TotalGames: 996, GamesPerMatchup: 166
+Alpha calculations using Delta Ordinal
+Alpha: 10.0
+	0.990	FirstAction
+	0.010	osla
+	0.000	Random
+
+Transition matrix for alpha = 10.0
+0.990	0.010	0.000	
+0.990	0.010	0.000	
+0.965	0.035	0.000	
+B matrix for alpha = 10.0
+3.873	1.034	0.956	
+1.034	0.982	0.956	
+0.956	0.956	0.932	
+The following agents cluster together, and may be considered equivalent: 
+	Cluster for osla
+		osla
+		Random
+
+Alpha calculations using Win Rate
+Alpha: 10.0
+	0.990	FirstAction
+	0.010	osla
+	0.000	Random
+
+Transition matrix for alpha = 10.0
+0.990	0.010	0.000	
+0.990	0.010	0.000	
+0.965	0.035	0.000	
+B matrix for alpha = 10.0
+3.873	1.034	0.956	
+1.034	0.982	0.956	
+0.956	0.956	0.932	
+The following agents cluster together, and may be considered equivalent: 
+	Cluster for osla
+		osla
+		Random
+
+FirstAction got 555.00 points. FirstAction won 55.7% of the 996 games of the tournament. FirstAction won 83.6% of the 664 games it played during the tournament.
+FirstAction won 73.2% of the 332 games against osla.
+FirstAction won 94.0% of the 332 games against Random.
+
+osla got 346.00 points. osla won 34.7% of the 996 games of the tournament. osla won 52.1% of the 664 games it played during the tournament.
+osla won 26.8% of the 332 games against FirstAction.
+osla won 77.4% of the 332 games against Random.
+
+Random got 95.00 points. Random won 9.5% of the 996 games of the tournament. Random won 14.3% of the 664 games it played during the tournament.
+Random won 6.0% of the 332 games against FirstAction.
+Random won 22.6% of the 332 games against osla.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+FirstAction: Win rate 0.84 +/- 0.014	Mean Ordinal 1.16 +/- 0.01
+osla: Win rate 0.52 +/- 0.019	Mean Ordinal 1.48 +/- 0.02
+Random: Win rate 0.14 +/- 0.014	Mean Ordinal 1.86 +/- 0.01
+
+Alpha-rank by Win Rate
+	FirstAction                   	0.99
+	osla                          	0.01
+	Random                        	0.00
+
+Alpha-rank by Ordinal Position
+	FirstAction                   	0.99
+	osla                          	0.01
+	Random                        	0.00
+
+Game: Connect4, Players: 2, Mode: EXHAUSTIVE, TotalGames: 996, GamesPerMatchup: 166
+Alpha calculations using Delta Ordinal
+Alpha: 10.0
+	0.993	FirstAction
+	0.007	osla
+	0.000	Random
+
+Transition matrix for alpha = 10.0
+0.993	0.007	0.000	
+0.993	0.007	0.000	
+0.908	0.092	0.000	
+B matrix for alpha = 10.0
+3.782	1.083	0.903	
+1.083	0.995	0.902	
+0.903	0.902	0.832	
+The following agents cluster together, and may be considered equivalent: 
+	Cluster for osla
+		osla
+		Random
+
+Alpha calculations using Win Rate
+Alpha: 10.0
+	0.993	FirstAction
+	0.007	osla
+	0.000	Random
+
+Transition matrix for alpha = 10.0
+0.993	0.007	0.000	
+0.993	0.007	0.000	
+0.908	0.092	0.000	
+B matrix for alpha = 10.0
+3.782	1.083	0.903	
+1.083	0.995	0.902	
+0.903	0.902	0.832	
+The following agents cluster together, and may be considered equivalent: 
+	Cluster for osla
+		osla
+		Random
+
+FirstAction got 546.00 points. FirstAction won 54.8% of the 996 games of the tournament. FirstAction won 82.2% of the 664 games it played during the tournament.
+FirstAction won 75.0% of the 332 games against osla.
+FirstAction won 89.5% of the 332 games against Random.
+
+osla got 342.00 points. osla won 34.3% of the 996 games of the tournament. osla won 51.5% of the 664 games it played during the tournament.
+osla won 25.0% of the 332 games against FirstAction.
+osla won 78.0% of the 332 games against Random.
+
+Random got 108.00 points. Random won 10.8% of the 996 games of the tournament. Random won 16.3% of the 664 games it played during the tournament.
+Random won 10.5% of the 332 games against FirstAction.
+Random won 22.0% of the 332 games against osla.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+FirstAction: Win rate 0.82 +/- 0.015	Mean Ordinal 1.18 +/- 0.01
+osla: Win rate 0.52 +/- 0.019	Mean Ordinal 1.48 +/- 0.02
+Random: Win rate 0.16 +/- 0.014	Mean Ordinal 1.84 +/- 0.01
+
+Alpha-rank by Win Rate
+	FirstAction                   	0.99
+	osla                          	0.01
+	Random                        	0.00
+
+Alpha-rank by Ordinal Position
+	FirstAction                   	0.99
+	osla                          	0.01
+	Random                        	0.00
+

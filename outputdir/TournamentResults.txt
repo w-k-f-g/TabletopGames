@@ -1,0 +1,85 @@
+Game: Connect4, Players: 2, Mode: EXHAUSTIVE, TotalGames: 96, GamesPerMatchup: 8
+Alpha calculations using Delta Ordinal
+Alpha: 10.0
+	1.000	BasicMCTS
+	0.000	Random
+	0.000	RMHC
+	0.000	SuperOSLA
+
+Transition matrix for alpha = 10.0
+1.000	0.000	0.000	0.000	
+0.991	0.000	0.007	0.002	
+1.000	0.000	0.000	0.000	
+1.000	0.000	0.000	0.000	
+B matrix for alpha = 10.0
+4.982	0.991	1.007	1.002	
+0.991	0.983	0.991	0.991	
+1.007	0.991	1.000	1.000	
+1.002	0.991	1.000	1.000	
+The following agents cluster together, and may be considered equivalent: 
+	Cluster for Random
+		Random
+		RMHC
+		SuperOSLA
+
+Alpha calculations using Win Rate
+Alpha: 10.0
+	1.000	BasicMCTS
+	0.000	Random
+	0.000	RMHC
+	0.000	SuperOSLA
+
+Transition matrix for alpha = 10.0
+1.000	0.000	0.000	0.000	
+0.991	0.000	0.007	0.002	
+1.000	0.000	0.000	0.000	
+1.000	0.000	0.000	0.000	
+B matrix for alpha = 10.0
+4.982	0.991	1.007	1.002	
+0.991	0.983	0.991	0.991	
+1.007	0.991	1.000	1.000	
+1.002	0.991	1.000	1.000	
+The following agents cluster together, and may be considered equivalent: 
+	Cluster for Random
+		Random
+		RMHC
+		SuperOSLA
+
+BasicMCTS got 48.00 points. BasicMCTS won 50.0% of the 96 games of the tournament. BasicMCTS won 100.0% of the 48 games it played during the tournament.
+BasicMCTS won 100.0% of the 16 games against Random.
+BasicMCTS won 100.0% of the 16 games against RMHC.
+BasicMCTS won 100.0% of the 16 games against SuperOSLA.
+
+Random got 9.00 points. Random won 9.4% of the 96 games of the tournament. Random won 18.8% of the 48 games it played during the tournament.
+Random won 0.0% of the 16 games against BasicMCTS.
+Random won 25.0% of the 16 games against RMHC.
+Random won 31.3% of the 16 games against SuperOSLA.
+
+RMHC got 20.00 points. RMHC won 20.8% of the 96 games of the tournament. RMHC won 41.7% of the 48 games it played during the tournament.
+RMHC won 0.0% of the 16 games against BasicMCTS.
+RMHC won 75.0% of the 16 games against Random.
+RMHC won 50.0% of the 16 games against SuperOSLA.
+
+SuperOSLA got 19.00 points. SuperOSLA won 19.8% of the 96 games of the tournament. SuperOSLA won 39.6% of the 48 games it played during the tournament.
+SuperOSLA won 0.0% of the 16 games against BasicMCTS.
+SuperOSLA won 68.8% of the 16 games against Random.
+SuperOSLA won 50.0% of the 16 games against RMHC.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+BasicMCTS: Win rate 1.00 +/- 0.000	Mean Ordinal 1.00 +/- 0.00
+RMHC: Win rate 0.42 +/- 0.071	Mean Ordinal 1.58 +/- 0.07
+SuperOSLA: Win rate 0.40 +/- 0.071	Mean Ordinal 1.60 +/- 0.07
+Random: Win rate 0.19 +/- 0.056	Mean Ordinal 1.81 +/- 0.06
+
+Alpha-rank by Win Rate
+	BasicMCTS                     	1.00
+	RMHC                          	0.00
+	SuperOSLA                     	0.00
+	Random                        	0.00
+
+Alpha-rank by Ordinal Position
+	BasicMCTS                     	1.00
+	RMHC                          	0.00
+	SuperOSLA                     	0.00
+	Random                        	0.00
+
