@@ -1,0 +1,55 @@
+Game: Connect4, Players: 2, Mode: EXHAUSTIVE, TotalGames: 1000, GamesPerMatchup: 500
+BasicMCTS got 855.00 points. BasicMCTS won 85.5% of the 1000 games of the tournament. BasicMCTS won 85.5% of the 1000 games it played during the tournament.
+BasicMCTS won 85.5% of the 1000 games against FirstAction.
+
+FirstAction got 145.00 points. FirstAction won 14.5% of the 1000 games of the tournament. FirstAction won 14.5% of the 1000 games it played during the tournament.
+FirstAction won 14.5% of the 1000 games against BasicMCTS.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+BasicMCTS: Win rate 0.86 +/- 0.011	Mean Ordinal 1.15 +/- 0.01
+FirstAction: Win rate 0.15 +/- 0.011	Mean Ordinal 1.86 +/- 0.01
+
+Game: DotsAndBoxes, Players: 2, Mode: EXHAUSTIVE, TotalGames: 1000, GamesPerMatchup: 500
+BasicMCTS got 994.00 points. BasicMCTS won 99.4% of the 1000 games of the tournament. BasicMCTS won 99.4% of the 1000 games it played during the tournament.
+BasicMCTS won 99.4% of the 1000 games against FirstAction.
+
+FirstAction got 6.00 points. FirstAction won 0.6% of the 1000 games of the tournament. FirstAction won 0.6% of the 1000 games it played during the tournament.
+FirstAction won 0.6% of the 1000 games against BasicMCTS.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+BasicMCTS: Win rate 0.99 +/- 0.002	Mean Ordinal 1.01 +/- 0.00
+FirstAction: Win rate 0.01 +/- 0.002	Mean Ordinal 1.99 +/- 0.00
+
+Game: DotsAndBoxes, Players: 2, Mode: EXHAUSTIVE, TotalGames: 1000, GamesPerMatchup: 500
+BasicMCTS got 0.00 points. BasicMCTS won 0.0% of the 1000 games of the tournament. BasicMCTS won 0.0% of the 1000 games it played during the tournament.
+BasicMCTS won 0.0% of the 1000 games against osla.
+
+osla got 1000.00 points. osla won 100.0% of the 1000 games of the tournament. osla won 100.0% of the 1000 games it played during the tournament.
+osla won 100.0% of the 1000 games against BasicMCTS.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+osla: Win rate 1.00 +/- 0.000	Mean Ordinal 1.00 +/- 0.00
+BasicMCTS: Win rate 0.00 +/- 0.000	Mean Ordinal 2.00 +/- 0.00
+
+Game: Connect4, Players: 2, Mode: EXHAUSTIVE, TotalGames: 1000, GamesPerMatchup: 500
+BasicMCTS got 952.00 points. BasicMCTS won 95.2% of the 1000 games of the tournament. BasicMCTS won 95.2% of the 1000 games it played during the tournament.
+BasicMCTS won 95.2% of the 1000 games against osla.
+
+osla got 48.00 points. osla won 4.8% of the 1000 games of the tournament. osla won 4.8% of the 1000 games it played during the tournament.
+osla won 4.8% of the 1000 games against BasicMCTS.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+BasicMCTS: Win rate 0.95 +/- 0.007	Mean Ordinal 1.05 +/- 0.01
+osla: Win rate 0.05 +/- 0.007	Mean Ordinal 1.95 +/- 0.01
+
+Game: TicTacToe, Players: 2, Mode: EXHAUSTIVE, TotalGames: 1000, GamesPerMatchup: 500
+BasicMCTS got 998.00 points. BasicMCTS won 99.8% of the 1000 games of the tournament. BasicMCTS won 99.8% of the 1000 games it played during the tournament.
+BasicMCTS won 99.8% of the 1000 games against osla.
+
+osla got 2.00 points. osla won 0.2% of the 1000 games of the tournament. osla won 0.2% of the 1000 games it played during the tournament.
+osla won 0.2% of the 1000 games against BasicMCTS.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+BasicMCTS: Win rate 1.00 +/- 0.001	Mean Ordinal 1.00 +/- 0.00
+osla: Win rate 0.00 +/- 0.001	Mean Ordinal 2.00 +/- 0.00
+
