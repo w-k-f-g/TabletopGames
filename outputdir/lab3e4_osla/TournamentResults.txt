@@ -1,0 +1,11 @@
+Game: DotsAndBoxes, Players: 2, Mode: EXHAUSTIVE, TotalGames: 1000, GamesPerMatchup: 500
+BasicMCTS got 0.00 points. BasicMCTS won 0.0% of the 1000 games of the tournament. BasicMCTS won 0.0% of the 1000 games it played during the tournament.
+BasicMCTS won 0.0% of the 1000 games against osla.
+
+osla got 1000.00 points. osla won 100.0% of the 1000 games of the tournament. osla won 100.0% of the 1000 games it played during the tournament.
+osla won 100.0% of the 1000 games against BasicMCTS.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+osla: Win rate 1.00 +/- 0.000	Mean Ordinal 1.00 +/- 0.00
+BasicMCTS: Win rate 0.00 +/- 0.000	Mean Ordinal 2.00 +/- 0.00
+

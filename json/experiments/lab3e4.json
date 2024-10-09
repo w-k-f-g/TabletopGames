@@ -1,5 +1,5 @@
 {
-  "game" : "TicTacToe",
+  "game" : "DotsAndBoxes",
   "nPlayers" : 2,
   "mode" : "exhaustive",
   "matchups" : 1000,
