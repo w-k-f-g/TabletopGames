@@ -1,0 +1,11 @@
+Game: CantStop, Players: 2, Mode: EXHAUSTIVE, TotalGames: 100, GamesPerMatchup: 50
+BasicMCTS got 39.00 points. BasicMCTS won 39.0% of the 100 games of the tournament. BasicMCTS won 39.0% of the 100 games it played during the tournament.
+BasicMCTS won 39.0% of the 100 games against BasicMCTS.
+
+BasicMCTS got 61.00 points. BasicMCTS won 61.0% of the 100 games of the tournament. BasicMCTS won 61.0% of the 100 games it played during the tournament.
+BasicMCTS won 61.0% of the 100 games against BasicMCTS.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+BasicMCTS: Win rate 0.61 +/- 0.049	Mean Ordinal 1.39 +/- 0.05
+BasicMCTS: Win rate 0.39 +/- 0.049	Mean Ordinal 1.61 +/- 0.05
+
