@@ -1,0 +1,33 @@
+Game: Connect4, Players: 2, Mode: EXHAUSTIVE, TotalGames: 100, GamesPerMatchup: 50
+Random got 40.00 points. Random won 40.0% of the 100 games of the tournament. Random won 40.0% of the 100 games it played during the tournament.
+Random won 40.0% of the 100 games against rmhc.
+
+rmhc got 60.00 points. rmhc won 60.0% of the 100 games of the tournament. rmhc won 60.0% of the 100 games it played during the tournament.
+rmhc won 60.0% of the 100 games against Random.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+rmhc: Win rate 0.60 +/- 0.049	Mean Ordinal 1.40 +/- 0.05
+Random: Win rate 0.40 +/- 0.049	Mean Ordinal 1.60 +/- 0.05
+
+Game: Connect4, Players: 2, Mode: EXHAUSTIVE, TotalGames: 100, GamesPerMatchup: 50
+Random got 18.00 points. Random won 18.0% of the 100 games of the tournament. Random won 18.0% of the 100 games it played during the tournament.
+Random won 18.0% of the 100 games against rmhc.
+
+rmhc got 82.00 points. rmhc won 82.0% of the 100 games of the tournament. rmhc won 82.0% of the 100 games it played during the tournament.
+rmhc won 82.0% of the 100 games against Random.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+rmhc: Win rate 0.82 +/- 0.038	Mean Ordinal 1.18 +/- 0.04
+Random: Win rate 0.18 +/- 0.038	Mean Ordinal 1.82 +/- 0.04
+
+Game: Connect4, Players: 2, Mode: EXHAUSTIVE, TotalGames: 100, GamesPerMatchup: 50
+Random got 18.00 points. Random won 18.0% of the 100 games of the tournament. Random won 18.0% of the 100 games it played during the tournament.
+Random won 18.0% of the 100 games against rmhc.
+
+rmhc got 82.00 points. rmhc won 82.0% of the 100 games of the tournament. rmhc won 82.0% of the 100 games it played during the tournament.
+rmhc won 82.0% of the 100 games against Random.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+rmhc: Win rate 0.82 +/- 0.038	Mean Ordinal 1.18 +/- 0.04
+Random: Win rate 0.18 +/- 0.038	Mean Ordinal 1.82 +/- 0.04
+
