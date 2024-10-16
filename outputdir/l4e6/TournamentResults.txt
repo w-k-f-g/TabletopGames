@@ -1,0 +1,27 @@
+Game: SushiGo, Players: 4, Mode: RANDOM, TotalGames: 100, GamesPerMatchup: 1
+BasicMCTS got 31.50 points. BasicMCTS won 31.0% of the 100 games of the tournament. BasicMCTS won 31.0% of the 100 games it played during the tournament.
+BasicMCTS won 31.0% of the 100 games against osla.
+BasicMCTS won 31.0% of the 100 games against Random.
+BasicMCTS won 31.0% of the 100 games against rhea.
+
+osla got 4.50 points. osla won 4.0% of the 100 games of the tournament. osla won 4.0% of the 100 games it played during the tournament.
+osla won 4.0% of the 100 games against BasicMCTS.
+osla won 4.0% of the 100 games against Random.
+osla won 4.0% of the 100 games against rhea.
+
+Random got 2.00 points. Random won 2.0% of the 100 games of the tournament. Random won 2.0% of the 100 games it played during the tournament.
+Random won 2.0% of the 100 games against BasicMCTS.
+Random won 2.0% of the 100 games against osla.
+Random won 2.0% of the 100 games against rhea.
+
+rhea got 62.00 points. rhea won 62.0% of the 100 games of the tournament. rhea won 62.0% of the 100 games it played during the tournament.
+rhea won 62.0% of the 100 games against BasicMCTS.
+rhea won 62.0% of the 100 games against osla.
+rhea won 62.0% of the 100 games against Random.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+rhea: Win rate 0.62 +/- 0.049	Mean Ordinal 1.54 +/- 0.08
+BasicMCTS: Win rate 0.32 +/- 0.046	Mean Ordinal 1.99 +/- 0.09
+osla: Win rate 0.05 +/- 0.020	Mean Ordinal 3.30 +/- 0.08
+Random: Win rate 0.02 +/- 0.014	Mean Ordinal 3.15 +/- 0.08
+

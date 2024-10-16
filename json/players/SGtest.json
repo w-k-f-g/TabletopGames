@@ -1,0 +1,11 @@
+{
+  "class" : "players.SGtest.BasicMCTSParams",
+  "K" : 1.0,
+  "rolloutLength" : 0,
+  "maxTreeDepth" : 30,
+  "heuristic" : {
+    "class" : "players.SGtest.SGtest"
+  },
+  "budgetType" : "BUDGET_TIME",
+  "budget" : 40
+}

@@ -1,0 +1,11 @@
+{
+  "game" : "SushiGo",
+  "nPlayers" : 2,
+  "mode" : "random",
+  "matchups" : 50,
+  "verbose" : true,
+  "seed" : 740234,
+  "listener" : "json/listeners/basiclistener.json",
+  "destDir" : "outputdir/SGtest",
+  "playerDirectory" : "tournamentPlayers/SGtest"
+}
