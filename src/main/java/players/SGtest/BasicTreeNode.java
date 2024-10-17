@@ -57,7 +57,7 @@ class BasicTreeNode {
      */
     void mctsSearch() {
 
-        players.basicMCTS.BasicMCTSParams params = player.getParameters();
+        players.SGtest.BasicMCTSParams params = player.getParameters();
 
         // Variables for tracking time budget
         double avgTimeTaken;

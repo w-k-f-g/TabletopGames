@@ -21,13 +21,13 @@ public class BasicMCTSPlayer extends AbstractPlayer {
     }
 
     public BasicMCTSPlayer(long seed) {
-        super(new players.basicMCTS.BasicMCTSParams(), "Basic MCTS");
+        super(new players.SGtest.BasicMCTSParams(), "Basic MCTS");
         // for clarity we create a new set of parameters here, but we could just use the default parameters
         parameters.setRandomSeed(seed);
         rnd = new Random(seed);
 
         // These parameters can be changed, and will impact the Basic MCTS algorithm
-        players.basicMCTS.BasicMCTSParams params = getParameters();
+        players.SGtest.BasicMCTSParams params = getParameters();
         params.K = Math.sqrt(2);
         params.rolloutLength = 10;
         params.maxTreeDepth = 5;
@@ -35,7 +35,7 @@ public class BasicMCTSPlayer extends AbstractPlayer {
 
     }
 
-    public BasicMCTSPlayer(players.basicMCTS.BasicMCTSParams params) {
+    public BasicMCTSPlayer(players.SGtest.BasicMCTSParams params) {
         super(params, "Basic MCTS");
         rnd = new Random(params.getRandomSeed());
     }
@@ -43,7 +43,7 @@ public class BasicMCTSPlayer extends AbstractPlayer {
     @Override
     public AbstractAction _getAction(AbstractGameState gameState, List<AbstractAction> actions) {
         // Search for best action from the root
-        players.basicMCTS.BasicTreeNode root = new players.basicMCTS.BasicTreeNode(this, null, gameState, rnd);
+        players.SGtest.BasicTreeNode root = new players.SGtest.BasicTreeNode(this, null, gameState, rnd);
 
         // mctsSearch does all of the hard work
         root.mctsSearch();
@@ -53,7 +53,7 @@ public class BasicMCTSPlayer extends AbstractPlayer {
     }
 
     @Override
-    public players.basicMCTS.BasicMCTSParams getParameters() {
+    public players.SGtest.BasicMCTSParams getParameters() {
         return (BasicMCTSParams) parameters;
     }
 

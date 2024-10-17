@@ -4,7 +4,7 @@
   "rolloutLength" : 0,
   "maxTreeDepth" : 30,
   "heuristic" : {
-    "class" : "players.SGtest.SGtest"
+    "class" : "players.heuristics.ScoreHeuristic"
   },
   "budgetType" : "BUDGET_TIME",
   "budget" : 40
